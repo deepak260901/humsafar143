@@ -115,9 +115,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![deepak260901](https://github.com/deepak260901.png?size=100)](https://github.com/deepak260901) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
-----|----|----
-[deepak260901](https://github.com/deepak260901)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+  [![deepak260901](https://github.com/deepak260901.png?size=100)](https://github.com/deepak260901)
+
+[deepak260901](https://github.com/deepak260901)  |
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
     
